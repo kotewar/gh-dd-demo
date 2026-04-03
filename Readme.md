@@ -1,5 +1,8 @@
 # 🤖 GitHub Copilot on GitHub.com
 
+[![CodeQL](https://github.com/kotewar/gh-dd-demo/actions/workflows/codeql.yml/badge.svg)](https://github.com/kotewar/gh-dd-demo/actions/workflows/codeql.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Everything Copilot can do — right in your browser, no IDE needed.
 
 | Feature | How to Try It |
